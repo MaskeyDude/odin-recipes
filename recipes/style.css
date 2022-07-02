@@ -110,18 +110,13 @@ h1 {
     /* decor */
     border-radius: 0.5em;
     border: solid 2px #d4b395;
-    animation: recipe-box 2s ease-out;
+    animation: recipe-box 1s cubic-bezier(0, 0, 0, 0.8);
 }
 
 @keyframes recipe-box {
     0% {
-        opacity: 0.3;
-        max-width: 10%;
-        margin: 1em 50%;
-    }
-
-    30% {
         opacity: 0;
+        margin: 1em 25%;
     }
 
     100% {
@@ -152,7 +147,7 @@ h1 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     /* sizing & positioning */
-    max-width: 80%;
+    max-width: 90%;
     margin: 0.5em 10%;
     text-align: center;
 }
@@ -206,6 +201,5 @@ h1 {
 
     .extra-info {
         margin: 0.5em 5%;
-        max-width: 90%;
     }
 }
