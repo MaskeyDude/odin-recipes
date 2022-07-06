@@ -6,5 +6,5 @@ I wanted to say that I don't own anime food images and all the credits go to the
 - <a href="https://images.app.goo.gl/5CxQXjs9qjnwjf7u8">French Freyes</a>
 <hr>
 <div align="center">
-<a href="https://maskeydude.github.io/odin-recipes/index.html">Preview</a>
+<a href="https://maskeydude.github.io/odin-recipes/index.html" target="_blank">Preview</a>
 </div>
